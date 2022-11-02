@@ -1,0 +1,7 @@
+ase
+chemiscope
+numpy
+tqdm
+sklearn
+skcosmo
+git+https://github.com/lab-cosmo/librascal
